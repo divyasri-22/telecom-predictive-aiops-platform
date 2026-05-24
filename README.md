@@ -117,6 +117,6 @@ The platform improves telecom operational visibility by enabling predictive anal
 
 ## Developed By
 
-Divya
+DivyaSri V
 
 AI-Driven Telecom Analytics & Operational Intelligence Project
