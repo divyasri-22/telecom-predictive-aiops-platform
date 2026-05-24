@@ -1,0 +1,155 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "alertid": "50001",
+      "eventid": "2001001",
+      "clock": "1709600000",
+      "subject": "Problem: Interface ge-0/0/12(to_CORE-SW1): Link down",
+      "message": "Problem started at 10:30:00 on 2025.03.05\r\nProblem name: Interface ge-0/0/12(to_CORE-SW1): Link down\r\nHost: SWITCH-ACC-01\r\nSeverity: High\r\nOperational data: Current state: down (2)\r\nOriginal problem ID: 2001001\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50002",
+      "eventid": "2001002",
+      "clock": "1709600060",
+      "subject": "Problem: NIC [NIC.Slot.1-1-1/A0:B1:C2:D3:E4:F5]: Link down",
+      "message": "Problem started at 10:31:00 on 2025.03.05\r\nProblem name: NIC [NIC.Slot.1-1-1/A0:B1:C2:D3:E4:F5]: Link down\r\nHost: SERVER-COMPUTE-01\r\nSeverity: Average\r\nOperational data: Current status: disconnected (2)\r\nOriginal problem ID: 2001002\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50003",
+      "eventid": "2001003",
+      "clock": "1709600120",
+      "subject": "Problem: PCIe 3 Temp: Temperature is above Warning threshold",
+      "message": "Problem started at 10:32:00 on 2025.03.05\r\nProblem name: PCIe 3 Temp: Temperature is above Warning threshold\r\nHost: SERVER-GPU-01\r\nSeverity: Warning\r\nOperational data: 72 C, threshold: 70 C\r\nOriginal problem ID: 2001003\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50004",
+      "eventid": "2001004",
+      "clock": "1709600180",
+      "subject": "Problem: VPN Main-Tunnel1: Tunnel down",
+      "message": "Problem started at 10:33:00 on 2025.03.05\r\nProblem name: VPN Main-Tunnel1: Tunnel down\r\nHost: FIREWALL-MAIN-01\r\nSeverity: High\r\nOriginal problem ID: 2001004\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50005",
+      "eventid": "2001005",
+      "clock": "1709600240",
+      "subject": "Problem: Power Supply 1: Status degraded",
+      "message": "Problem started at 10:34:00 on 2025.03.05\r\nProblem name: Power Supply 1: Status degraded\r\nHost: SERVER-COMPUTE-02\r\nSeverity: Average\r\nOperational data: Current status: degraded (3)\r\nOriginal problem ID: 2001005\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50006",
+      "eventid": "2001006",
+      "clock": "1709600300",
+      "subject": "Problem: No SNMP data collection",
+      "message": "Problem started at 10:35:00 on 2025.03.05\r\nProblem name: No SNMP data collection\r\nHost: SWITCH-CORE-01\r\nSeverity: Warning\r\nOperational data: Current state: not available (0)\r\nOriginal problem ID: 2001006\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50007",
+      "eventid": "2001007",
+      "clock": "1709600360",
+      "subject": "Problem: Interface xe-0/0/23(): Link down",
+      "message": "Problem started at 10:36:00 on 2025.03.05\r\nProblem name: Interface xe-0/0/23(): Link down\r\nHost: SWITCH-ACC-03\r\nSeverity: Average\r\nOperational data: Current state: down (2)\r\nOriginal problem ID: 2001007\r\n",
+      "status": "2",
+      "error": "Sending failed: connection timeout",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50008",
+      "eventid": "2001008",
+      "clock": "1709600420",
+      "subject": "Problem: System battery [NVDIMM Battery]: Status is not OK",
+      "message": "Problem started at 10:37:00 on 2025.03.05\r\nProblem name: System battery [NVDIMM Battery]: Status is not OK\r\nHost: SERVER-DB-01\r\nSeverity: Average\r\nOperational data: Current status: unknown (2)\r\nOriginal problem ID: 2001008\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50009",
+      "eventid": "2001009",
+      "clock": "1709603000",
+      "subject": "Resolved in 5m 30s: Interface ge-0/0/12(to_CORE-SW1): Link down",
+      "message": "Problem has been resolved at 11:23:20 on 2025.03.05\r\nProblem name: Interface ge-0/0/12(to_CORE-SW1): Link down\r\nProblem duration: 5m 30s\r\nHost: SWITCH-ACC-01\r\nSeverity: High\r\nOriginal problem ID: 2001001\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50010",
+      "eventid": "2001010",
+      "clock": "1709604000",
+      "subject": "Problem: Interface ge-0/0/12(to_CORE-SW1): Link down",
+      "message": "Problem started at 11:40:00 on 2025.03.05\r\nProblem name: Interface ge-0/0/12(to_CORE-SW1): Link down\r\nHost: SWITCH-ACC-01\r\nSeverity: High\r\nOperational data: Current state: down (2)\r\nOriginal problem ID: 2001010\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50011",
+      "eventid": "2001011",
+      "clock": "",
+      "subject": "Problem: HA failover detected",
+      "message": "Problem started at 12:00:00 on 2025.03.05\r\nProblem name: HA failover detected\r\nHost: FIREWALL-MAIN-01\r\nSeverity: Disaster\r\nOriginal problem ID: 2001011\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50012",
+      "eventid": "2001012",
+      "clock": "1709608000",
+      "subject": "",
+      "message": "",
+      "status": "2",
+      "error": "No message defined for media type.",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50013",
+      "eventid": "2001013",
+      "clock": "1709608100",
+      "subject": "Problem: Interface ge-0/0/46(Fibrolan): Link down",
+      "message": "Problem started at 12:55:00 on 2025.03.05\r\nProblem name: Interface ge-0/0/46(Fibrolan): Link down\r\nHost: SWITCH-OOB-04\r\nSeverity: Average\r\nOperational data: Current state: down (2)\r\nOriginal problem ID: 2001013\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50014",
+      "eventid": "2001014",
+      "clock": "1709608200",
+      "subject": "Problem: PCIe 5 Temp: Temperature is above Disaster threshold",
+      "message": "Problem started at 13:10:00 on 2025.03.05\r\nProblem name: PCIe 5 Temp: Temperature is above Disaster threshold\r\nHost: SERVER-GPU-01\r\nSeverity: Disaster\r\nOperational data: 95 C, threshold: 90 C\r\nOriginal problem ID: 2001014\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    },
+    {
+      "alertid": "50015",
+      "eventid": "2001015",
+      "clock": "1709608300",
+      "subject": "Problem: Interface 1/1/46: Link down",
+      "message": "Problem started at 13:25:00 on 2025.03.05\r\nProblem name: Interface 1/1/46: Link down\r\nHost: SWITCH-ACC-04\r\nSeverity: Average\r\nOperational data: Current state: down (2)\r\nOriginal problem ID: 2001015\r\n",
+      "status": "1",
+      "error": "",
+      "alerttype": "0"
+    }
+  ]
+}
